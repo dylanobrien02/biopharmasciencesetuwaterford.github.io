@@ -1,0 +1,18 @@
+.navbar {
+	background-color: #002500;}
+
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Manrope", sans-serif;
+  /* Additional styles for headings */
+}
+
+p {
+  font-family: "Manrope", sans-serif;
+  /* Additional styles for paragraphs */
+}
+
+/* Add more CSS rules for other HTML elements as needed */
